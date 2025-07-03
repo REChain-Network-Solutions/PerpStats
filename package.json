@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hono/node-server": "^1.9.1",
+    "@hono/node-server": "^1.15.0",
     "cron": "^3.1.6",
     "dayjs": "^1.11.10",
     "dotenv": "^16.4.5",
