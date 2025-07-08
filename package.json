@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@hono/node-server": "^1.15.0",
-    "cron": "^3.1.6",
+    "cron": "^4.3.1",
     "dayjs": "^1.11.10",
     "dotenv": "^17.0.1",
     "hono": "^4.8.3",
