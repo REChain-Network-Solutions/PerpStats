@@ -17,11 +17,11 @@
     "dotenv": "^17.2.2",
     "hono": "^4.11.4",
     "odapp": "^0.1.15",
-    "pg": "^8.11.5"
+    "pg": "^8.17.1"
   },
   "devDependencies": {
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
-    "prettier": "^3.7.4"
+    "prettier": "^3.8.0"
   }
 }
